@@ -13,6 +13,11 @@ This game was inspired by classic arcade mechanics and built with **Pygame**, a 
 
 ---
 
+## ▶️ Demo Video
+Watch a short gameplay demo here: [YouTube Video Link](https://www.youtube.com/watch?v=lNzcrdSYqx0)
+
+---
+
 ## 🎯 Features
 - Player-controlled paddle using arrow keys
 - Collision detection between paddle and ball
@@ -24,7 +29,6 @@ This game was inspired by classic arcade mechanics and built with **Pygame**, a 
 ## 🧠 What I Learned
 - Basics of Pygame's game loop and rendering
 - Using keyboard input to control in-game objects
-- Implementing simple physics like velocity and reflection
 - Structuring code into logical sections
 - Debugging using console printouts and iteration
 
@@ -42,6 +46,8 @@ Then run the game file:
 ```bash
 python bouncing_ball.py
 ```
+
+> ⚠️ On macOS and some Linux systems, you may need to use `python3` instead of `python` depending on how your environment is set up.
 
 You should see a window with a moving ball and a controllable paddle. Use the **left** and **right arrow keys** to keep the ball from falling!
 
@@ -69,4 +75,6 @@ You should see a window with a moving ball and a controllable paddle. Use the **
 Thanks for checking it out! Feel free to fork this repo, play around with the physics, or expand on the game mechanics.
 
 — Kelvin
+
+
 
